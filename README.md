@@ -12,3 +12,6 @@
 
 5. Read-only map
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b1a64c6-8dce-46fc-a3bf-8f361734deed" />
+
+6. Mutable map with explicit type declaration
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa44daba-587d-4b2e-a7ee-d2d6966869c4" />
