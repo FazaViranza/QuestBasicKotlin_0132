@@ -41,3 +41,41 @@
 14. Variables + String Templates
 <img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/0c292ea1-a4c4-4684-951c-7dd5eb48f5b5" />
 
+15. Basic Data Types
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/b66a6b46-d4fe-460c-87e2-c460b39433ac" />
+
+16. Named Arguments
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/76cc5da2-3b3c-4d49-a321-96f41eea6b4d" />
+
+17. Default Parameter Values
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/26daa9ae-e715-426f-8add-66a6870964c2" />
+
+18. Functions Without Return
+<img width="1919" height="1078" alt="image" src="https://github.com/user-attachments/assets/e68c18c3-a10a-4e69-9f1d-2353fb0ed843" />
+
+19. Lambda Expressions
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5f935ebe-52a7-42f0-a59d-774a93ee0aef" />
+
+20. Properties + Create Instance + Access Properties
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9440eed8-2260-4f1d-9ca9-e60b7c51e642" />
+
+21. Member Functions
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b86846d0-a92f-4e80-99f8-93017909b5d4" />
+
+22. Data Class Methods
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/804e35b1-9b91-4f3c-8abe-0ccf740f924f" />
+
+23. Copy Instance
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e23bdcad-73ff-49ed-b888-0ced19fb5dd1" />
+
+24. Nullable Types
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d8e2a19d-ede8-45c7-bf1e-9805333a869e" />
+
+25. Check for Null Values
+<img width="1914" height="1077" alt="image" src="https://github.com/user-attachments/assets/8724d154-5a9d-481a-9e3b-66bb1c46986d" />
+
+26. Safe Calls
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ba3eea17-eabe-43d1-bef3-0507ee4ace91" />
+
+27. Elvis Operator
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/485e5254-7393-4f76-b860-6455e9e7910e" />
