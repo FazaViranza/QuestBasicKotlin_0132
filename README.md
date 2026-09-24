@@ -1,4 +1,23 @@
+# 🟣 Quest Basic Kotlin
 
+> **Pertemuan 2 — Basic Kotlin**  
+> Dokumentasi hasil praktik dan eksplorasi materi Basic Kotlin menggunakan Kotlin Editor.
+
+---
+
+## 👤 Ingfo
+
+| Information | Detail |
+|---|---|
+| **Nama** | Nofila Faza Viranza |
+| **NIM** | 20240140132 |
+| **Kelas** | C |
+
+---
+
+## 📚 SS
+
+### 
 1. Read only List
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/da7cebad-278a-4025-8493-c5949c50aab9" />
 
