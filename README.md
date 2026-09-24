@@ -28,3 +28,6 @@
 
 10. Functions
 <img width="1913" height="1079" alt="image" src="https://github.com/user-attachments/assets/834dfea0-02cb-4b25-a65f-40cee035b239" />
+
+11. Loops
+<img width="1917" height="1079" alt="image" src="https://github.com/user-attachments/assets/e2ff0e41-3d08-4e3d-ae43-0f581a23a340" />
