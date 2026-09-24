@@ -9,3 +9,6 @@
 
 4. Mutable Set
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bc43972c-4b91-418f-9ed1-5f583df62b6a" />
+
+5. Read-only map
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8b1a64c6-8dce-46fc-a3bf-8f361734deed" />
