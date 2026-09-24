@@ -37,3 +37,7 @@
 
 13. Class / Data Class
 <img width="1919" height="1072" alt="image" src="https://github.com/user-attachments/assets/754a865c-5e22-4ae9-a36a-c142910efc91" />
+
+14. Variables + String Templates
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/0c292ea1-a4c4-4684-951c-7dd5eb48f5b5" />
+
